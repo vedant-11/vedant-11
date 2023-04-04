@@ -3,7 +3,7 @@
 
 
 <br/>
-<div width="full" ="2px" align="center" ><img align="center" alt="gif" width="320px" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" /></div>
+<div width="full" ="2px" align="center" ><a href="https://app.daily.dev/vedant-11"><img src="https://api.daily.dev/devcards/698952c1e6344c13a332bc4531a0e405.png?r=a0l" width="400" alt="vedant singh's Dev Card"/></a></div>
 
 <br/>
 <h2>Few Facts about me :</h2>
